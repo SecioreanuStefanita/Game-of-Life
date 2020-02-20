@@ -1,0 +1,128 @@
+# depslib dependency file v1.0
+1573979839 source:c:\users\steph\desktop\secioreanu_ionel_stefanita_251_proiect_2_problema_30\engine.cpp
+	<stddef.h>
+	"engine.h"
+
+1573979820 source:c:\users\steph\desktop\secioreanu_ionel_stefanita_251_proiect_2_problema_30\main.cpp
+	<iostream>
+	"jocv.h"
+
+1573945440 c:\users\steph\desktop\secioreanu_ionel_stefanita_251_proiect_2_problema_30\engine.h
+
+1573945440 c:\users\steph\desktop\secioreanu_ionel_stefanita_251_proiect_2_problema_30\engine.cpp
+	<stddef.h>
+	"engine.h"
+
+1573898317 c:\users\steph\desktop\secioreanu_ionel_stefanita_251_proiect_2_problema_30\main.cpp
+	<iostream>
+	"engine.h"
+	"engine.cpp"
+
+1573979157 source:c:\users\steph\desktop\secioreanu_ionel_stefanita_251_proiect_2_problema_30\jocv.cpp
+	"jocv.h"
+	<stddef.h>
+
+1573919711 c:\users\steph\desktop\secioreanu_ionel_stefanita_251_proiect_2_problema_30\enigne.h
+	<stddef.h>
+
+1573980485 c:\users\steph\desktop\secioreanu_ionel_stefanita_251_proiect_2_problema_30\jocv.h
+	"engine.h"
+
+1573979839 source:c:\users\steph\desktop\cursuri faculate\anul ii\semestrul i\programare orientate pe obiecte\laborator\proiect 2poo gameoflife\secioreanu_ionel_stefanita_251_proiect_2_problema_30\engine.cpp
+	<stddef.h>
+	"engine.h"
+
+1573945440 c:\users\steph\desktop\cursuri faculate\anul ii\semestrul i\programare orientate pe obiecte\laborator\proiect 2poo gameoflife\secioreanu_ionel_stefanita_251_proiect_2_problema_30\engine.h
+
+1574611429 source:c:\users\steph\desktop\cursuri faculate\anul ii\semestrul i\programare orientate pe obiecte\laborator\proiect 2poo gameoflife\secioreanu_ionel_stefanita_251_proiect_2_problema_30\main.cpp
+	<iostream>
+	"jocv.h"
+
+1573980485 c:\users\steph\desktop\cursuri faculate\anul ii\semestrul i\programare orientate pe obiecte\laborator\proiect 2poo gameoflife\secioreanu_ionel_stefanita_251_proiect_2_problema_30\jocv.h
+	"engine.h"
+
+1574289868 source:c:\users\steph\desktop\cursuri faculate\anul ii\semestrul i\programare orientate pe obiecte\laborator\proiect 2poo gameoflife\secioreanu_ionel_stefanita_251_proiect_2_problema_30\jocv.cpp
+	"jocv.h"
+	<stddef.h>
+	<vector>
+
+1574611653 source:c:\users\steph\desktop\cursuri faculate\anul ii\semestrul i\programare orientate pe obiecte\laborator\proiect 2poo gameoflife\secioreanu_ionel_stefanita_251_proiect_2_problema_30\outputjv.cpp
+	"outputjv.h"
+	"jocv.h"
+	<Windows.h>
+
+1574610390 c:\users\steph\desktop\cursuri faculate\anul ii\semestrul i\programare orientate pe obiecte\laborator\proiect 2poo gameoflife\secioreanu_ionel_stefanita_251_proiect_2_problema_30\outputjv.h
+	"engine.h"
+	"jocv.h"
+
+1574611975 source:c:\users\steph\desktop\cursuri faculate\anul ii\semestrul i\programare orientate pe obiecte\laborator\proiect 2poo gameoflife\secioreanu_ionel_stefanita_251_proiect_2_problema_30\jv.cpp
+	"outputjv.h"
+	"jocv.h"
+	<Windows.h>
+
+1574845689 source:c:\users\steph\desktop\proiect 2poo gameoflife - modificat\secioreanu_ionel_stefanita_251_proiect_2_problema_30\engine.cpp
+	<stddef.h>
+	"engine.h"
+	<iostream>
+
+1574789496 c:\users\steph\desktop\proiect 2poo gameoflife - modificat\secioreanu_ionel_stefanita_251_proiect_2_problema_30\engine.h
+
+1574848439 source:c:\users\steph\desktop\proiect 2poo gameoflife - modificat\secioreanu_ionel_stefanita_251_proiect_2_problema_30\jocv.cpp
+	"jocv.h"
+	<stddef.h>
+	<vector>
+	<cmath>
+	<iostream>
+
+1574791770 c:\users\steph\desktop\proiect 2poo gameoflife - modificat\secioreanu_ionel_stefanita_251_proiect_2_problema_30\jocv.h
+	"engine.h"
+
+1574849666 source:c:\users\steph\desktop\proiect 2poo gameoflife - modificat\secioreanu_ionel_stefanita_251_proiect_2_problema_30\main.cpp
+	<iostream>
+	"outputjv.h"
+	"jocv.h"
+	<Windows.h>
+
+1574803401 c:\users\steph\desktop\proiect 2poo gameoflife - modificat\secioreanu_ionel_stefanita_251_proiect_2_problema_30\outputjv.h
+	"engine.h"
+	"jocv.h"
+
+1574849817 source:c:\users\steph\desktop\proiect 2poo gameoflife - modificat\secioreanu_ionel_stefanita_251_proiect_2_problema_30\outputjv.cpp
+	"outputjv.h"
+	"jocv.h"
+	<Windows.h>
+	<iostream>
+
+1574845689 source:c:\users\steph\desktop\proiect 2poo gameoflife - v3\secioreanu_ionel_stefanita_251_proiect_2_problema_30\engine.cpp
+	<stddef.h>
+	"engine.h"
+	<iostream>
+
+1574789496 c:\users\steph\desktop\proiect 2poo gameoflife - v3\secioreanu_ionel_stefanita_251_proiect_2_problema_30\engine.h
+
+1574848439 source:c:\users\steph\desktop\proiect 2poo gameoflife - v3\secioreanu_ionel_stefanita_251_proiect_2_problema_30\jocv.cpp
+	"jocv.h"
+	<stddef.h>
+	<vector>
+	<cmath>
+	<iostream>
+
+1574791770 c:\users\steph\desktop\proiect 2poo gameoflife - v3\secioreanu_ionel_stefanita_251_proiect_2_problema_30\jocv.h
+	"engine.h"
+
+1574849817 source:c:\users\steph\desktop\proiect 2poo gameoflife - v3\secioreanu_ionel_stefanita_251_proiect_2_problema_30\outputjv.cpp
+	"outputjv.h"
+	"jocv.h"
+	<Windows.h>
+	<iostream>
+
+1574803401 c:\users\steph\desktop\proiect 2poo gameoflife - v3\secioreanu_ionel_stefanita_251_proiect_2_problema_30\outputjv.h
+	"engine.h"
+	"jocv.h"
+
+1574876983 source:c:\users\steph\desktop\proiect 2poo gameoflife - v3\secioreanu_ionel_stefanita_251_proiect_2_problema_30\main.cpp
+	<iostream>
+	"outputjv.h"
+	"jocv.h"
+	<Windows.h>
+
